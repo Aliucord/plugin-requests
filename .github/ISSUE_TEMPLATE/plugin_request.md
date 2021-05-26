@@ -11,11 +11,9 @@ assignees: ""
 -->
 
 ### Description
-
 A clear and concise description of what you want the plugin to do. Don't be too specific just yet.
 
 ### More info
-
 Please be more specific and technical here, add mockups or whatever else here too!
 
 ---
