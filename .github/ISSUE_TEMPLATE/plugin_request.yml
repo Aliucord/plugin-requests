@@ -1,0 +1,40 @@
+name: Plugin Request
+description: Create a plugin request, where someone can pick it up and develop it!
+labels: [up for grabs]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Time to get creative!
+  - type: input
+    id: discord
+    attributes:
+      label: Discord Account
+      description: Who on Discord is making this request? Not required.
+      placeholder: username#0000
+    validations:
+      required: false
+  - type: textarea
+    id: plugin-description
+    attributes:
+      label: Plugin Description
+      description: In basic terms, describe the plugin idea you have.
+      placeholder: I think a plugin that does ... would be cool! Maybe if it could do ... too?
+    validations:
+      required: true
+  - type: 
+    id: detailed-plugin-description
+    attributes:
+      label: Go into more detail...
+      description: If you'd like to, give us a bit more information on what you'd like this plugin to do and/or how you want it to work. Not required.
+      placeholder: I think it should also do ..., ... and ... too. I'd like it to use ... instead of ... as I think that would be more user friendly.
+    validations:
+      required: false
+  - type: checkboxes
+    id: agreement-check
+    attributes:
+      label: Request Agreement
+      description: Did you check to make sure your plugin has not already been requested?
+      options:
+        - label: I did indeed check to make sure my plugin request is original!
+          required: true
