@@ -1,4 +1,4 @@
-# Suggestions
+# Plugin Requests
 
 This is the place to be for suggesting plugin ideas or finding new plugins to make that people want!
 
