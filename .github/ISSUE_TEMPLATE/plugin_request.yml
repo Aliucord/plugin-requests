@@ -22,7 +22,7 @@ body:
       placeholder: I think a plugin that does ... would be cool! Maybe if it could do ... too?
     validations:
       required: true
-  - type: 
+  - type: textarea
     id: detailed-plugin-description
     attributes:
       label: Go into more detail...
