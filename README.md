@@ -10,7 +10,7 @@ Please make sure your plugin request has not already been made, you can check by
 Please also make sure the plugin you are requesting does not already exist, and doesn't fall into the list of [Impossible/Disallowed Plugins. 
 
 
-<details open>
+<details>
 <summary><b>Examples of impossible plugins</b></summary>
 
 + Server side modifications - e.g. enabling "Mobile Push Notifications" on servers discord sees as large
@@ -25,7 +25,8 @@ Please also make sure the plugin you are requesting does not already exist, and 
 > More examples can be found [here](https://github.com/Aliucord/plugin-requests/issues?q=is%3Aissue+label%3Arejected-not-possible+is%3Aclosed)
 
 </details>
-<details open>
+<br>
+<details>
 <summary><b>Examples of disallowed plugins</b></summary>
 
 + Plugins that break Discord's TOS (besides the client modding part of course)
