@@ -34,7 +34,7 @@ body:
     id: agreement-valid-request
     attributes:
       label: Request Agreement
-      description: Did you make sure your plugin request is not [impossible](https://github.com/Aliucord/plugin-requests#examples-of-impossible-plugins) or [disallowed](https://github.com/Aliucord/plugin-requests#examples-of-disallowed-plugins) ?
+      description: Did you make sure your plugin request is [possible and allowed](https://github.com/Aliucord/plugin-requests#submitting-a-request) ?
       options:
         - label: I made sure my plugin is possible and abides by the rules!
           required: true
