@@ -12,7 +12,7 @@ Please also make sure the plugin you are requesting does not already exist, and 
 <details>
 <summary><b>Examples of impossible plugins</b></summary>
 
-+ Server side modifications - e.g. enabling "Mobile Push Notifications" on servers discord sees as large
++ Server side modifications - e.g. Notification modifications/exceptions (like bypassing Do not disturb mode)
 + Free nitro - all nitro features except for emotes/stickers (use NitroSpoof/FakeStickers, both send image URLs)
 + Custom Rich Presence (or RPC) - this is not possible on mobile versions, use a PC
 + Compatibility layer plugins (e.g. bdcompat) - BetterDiscord, powerCord, and other desktop plugins will need to be ported to Aliucord to work.
