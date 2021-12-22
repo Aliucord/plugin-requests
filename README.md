@@ -7,8 +7,7 @@ This is the place to be for suggesting plugin ideas or finding new plugins to ma
 ### Submitting a request
 
 Please make sure your plugin request has not already been made, you can check by searching basic related terms in the [issues tab](https://github.com/Aliucord/plugin-requests/issues) of this repository! 
-Please also make sure the plugin you are requesting does not already exist, and doesn't fall into the list of [Impossible/Disallowed Plugins. 
-
+Please also make sure the plugin you are requesting does not already exist, and doesn't fall into the list of Impossible/Disallowed Plugins. 
 
 <details>
 <summary><b>Examples of impossible plugins</b></summary>
@@ -25,7 +24,6 @@ Please also make sure the plugin you are requesting does not already exist, and 
 > More examples can be found [here](https://github.com/Aliucord/plugin-requests/issues?q=is%3Aissue+label%3Arejected-not-possible+is%3Aclosed)
 
 </details>
-<br>
 <details>
 <summary><b>Examples of disallowed plugins</b></summary>
 
