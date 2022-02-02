@@ -31,10 +31,18 @@ body:
     validations:
       required: false
   - type: checkboxes
-    id: agreement-check
+    id: agreement-valid-request
     attributes:
       label: Request Agreement
-      description: Did you check to make sure your plugin has not already been requested?
+      description: Have you made sure your plugin request is [possible and allowed](https://github.com/Aliucord/plugin-requests#submitting-a-request) ?
+      options:
+        - label: I have made sure my plugin is possible and abides by the rules!
+          required: true
+  - type: checkboxes
+    id: agreement-check
+    attributes:
+      label: ​
+      description: Have you checked to make sure your plugin was not already requested?
       options:
         - label: I did indeed check to make sure my plugin request is original!
           required: true
