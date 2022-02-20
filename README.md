@@ -21,7 +21,7 @@ Please also make sure the plugin you are requesting does not already exist, and 
 + Logging in as a bot/using a bot token to login
 + See whether someone is appearing offline (invisible) or actually offline
 
-> More examples can be found [here](https://github.com/Aliucord/plugin-requests/issues?q=is%3Aissue+label%3Arejected-not-possible+is%3Aclosed)
+> More examples can be found [here](https://github.com/Aliucord/plugin-requests/issues?q=is%3Aissue+is%3Aclosed+label%3A%22rejected+%28api+abuse%2Fselfbotting%29%22)
 
 </details>
 <details>
@@ -32,7 +32,7 @@ Please also make sure the plugin you are requesting does not already exist, and 
 + Spamming servers
 + Copying or Transferring servers
 
-> More examples can be found [here](https://github.com/Aliucord/plugin-requests/issues?q=is%3Aissue+is%3Aclosed+label%3Arejected-api-abuse)
+> More examples can be found [here](https://github.com/Aliucord/plugin-requests/issues?q=is%3Aissue+is%3Aclosed+label%3A%22rejected+%28api+abuse%2Fselfbotting%29%22)
 
 </details>
 <br>
