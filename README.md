@@ -1,6 +1,14 @@
+# ⚠️ TEMPORARILY CLOSED
+
+Discord is rewriting the Android App from scratch. 
+This means, Aliucord will also be remade from scratch, all old plugins will stop working and 
+discord itself is different. Thus it makes no sense to have requests for the time being. 
+Please be patient until requests are opened again. 
+
 # Plugin Requests
 
 This is the place to be for suggesting plugin ideas or finding new plugins to make that people want!
+
 
 ## How does it work?
 
